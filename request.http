@@ -1,4 +1,4 @@
-@subdominio = ec2-bances-render
+@subdominio = ec2-bances
 
 ##############################
 # Requests SIN base de datos #
